@@ -4,6 +4,9 @@
 
 ![](./assets/figures/FaultyMathProblem.png)
 
+## News
+- [2024/10] 🔥Excited to announce that our Faulty Math Problem paper is now available on [arXiv](https://arxiv.org/abs/2410.18921)!
+
 ## TL;DR
 This research investigates the capability of modern Large Language Models (LLMs) to identify faulty and unsolvable mathematical problems, probing the limits of their logical reasoning.
 
