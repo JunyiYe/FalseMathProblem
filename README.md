@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/pictures/logo.png" width="130"> 
+</p>
+
 # From Blind Solvers to Logical Thinkers: Benchmarking LLMs’ Logical Integrity on Faulty Mathematical Problems
 
 [![](https://img.shields.io/badge/cs.CL-arXiv%3A2410.18921-B31B1B.svg)](https://arxiv.org/abs/2410.18921)
