@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/pictures/logo.png" width="130"> 
+    <img src="assets/figures/logo.png" width="130"> 
 </p>
 
 # From Blind Solvers to Logical Thinkers: Benchmarking LLMs’ Logical Integrity on Faulty Mathematical Problems
